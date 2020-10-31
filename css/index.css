@@ -6,3 +6,7 @@
 .InPage-Title {
     margin-top: 2vw;
 }
+
+.horizontal {
+    flex-direction: row;
+}
